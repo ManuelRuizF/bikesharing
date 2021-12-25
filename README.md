@@ -30,9 +30,20 @@ Also, we can still see that low-usage time in the early morning hours, every day
  This heatmap reinforces how much of the users are males. 
  Could this be because of excercise reasons? or maybe women don´t feel safe in the city of New York... Maybe in the city of Des Moines women would feel safe.  
  
+ Finally we can see that the best times people use the bikes are after the office time... This is a helpful insight since we want to know when are we going to repair the broken bikes.  
+ 
 
 ### Trips By gender and weekday
 
-![image5](https://github.com/ManuelRuizF/bikesharing/blob/main/images/Trips%20by%20weekday.PNG)
+![image5](https://github.com/ManuelRuizF/bikesharing/blob/main/images/Trips%20by%20weekday.PNG)  
+ Finally we can see that the best times people use the bikes are after the office time... This is a helpful insight since we want to know when are we going to repair the broken bikes.    
+   
+   
 
 ## Summary
+In a really busy city like New York, the buyer persona for this business is a male that rides the bike before and after office.   
+These are my 2 recommendations for more visualizations in the future:  
+- Study the average age people use the service. Maybe the Des Moines´s population  is more of old people and our targets are millenials!  
+- Also, the distances from the corporatives and the residencial areas. We want to know the average distance a worker would travel.  
+
+
