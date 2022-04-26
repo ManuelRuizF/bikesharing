@@ -36,7 +36,12 @@ Also, we can still see that low-usage time in the early morning hours, every day
 ### Trips By gender and weekday
 
 ![image5](https://github.com/ManuelRuizF/bikesharing/blob/main/images/Trips%20by%20weekday.PNG)  
- Finally we can see that the best times people use the bikes are after the office time... This is a helpful insight since we want to know when are we going to repair the broken bikes.    
+ Finally we can see that the best times people use the bikes are after the office time... This is a helpful insight since we want to know when are we going to repair the broken bikes. 
+ 
+ ## Tools
+ - Jupyter Notebook
+ - Python
+ 
    
    
 
