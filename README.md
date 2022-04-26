@@ -1,5 +1,5 @@
 # Bikesharing Analysis 
-[Link to dashboard](https://public.tableau.com/authoring/bikesharing_ManuelRuiz/Checkouttimeforusers#1)
+[Link to dashboard of Tableu](https://public.tableau.com/authoring/bikesharing_ManuelRuiz/Checkouttimeforusers#1)
 
 ## Overview  
 
