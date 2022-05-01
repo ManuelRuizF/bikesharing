@@ -5,7 +5,7 @@
 
 For this project we want to analyze bikesharing data from CitiBike in New York City. In order to create a presentation to investors looking to begin a bikeshare program in Des Moines, Iowa. We won´t start big, since New York´s population is really different from Des Moines. And finally create the solid business proposal.  
   
-We want to create the following visualizations to...:  
+We want to create the following visualizations to...  
   
 - ...show the length of time that bikes are checked out for all riders and genders.  
 - ...show the number of bike trips for all riders and genders for each hour of each day of the week.  
