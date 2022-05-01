@@ -42,6 +42,10 @@ Also, we can still see that low-usage time in the early morning hours, every day
  - Jupyter Notebook
  - Python
  - Tableu
+
+## Resources
+- Data Source: Citi Bike Data, 201908-citibike-tripdata.csv.zip  
+- Software: Python 3.7.7, Anaconda Navigator 1.9.12, Conda 4.8.4, Jupyter Notebook 6.0.3, Tableau Public 2020.3.2
  
    
    
